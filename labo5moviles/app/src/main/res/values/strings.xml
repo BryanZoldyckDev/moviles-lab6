@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">labo5-moviles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello bryan fragment</string>
+    <string name="billboard_title">Billboard</string>
+    <string name="newmovie_title">New Movie</string>
+    <string name="name">Name</string>
+    <string name="category_title">Category</string>
+    <string name="description">Description</string>
+    <string name="calification">Calification</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score_1">9.8</string>
+    <string name="score_2">9.5</string>
+    <string name="starwars_title">Star Wars episodio 3: La veganza de los Sith</string>
+    <string name="harry_tittle">Harry Potter y la Piedra Filosofal</string>
+    <string name="category_class">Ciencia ficcion</string>
+    <string name="movie_description">La película se centra en el personaje de Anakyn Skywalker, quién está siendo tentado por el Lado Oscuro de la Fuerza mientrás el Imperio Galáctico comienza a surgir. La trama también muestra la caída de la República Galáctica y el ascenso del Emperador Palpatine</string>
+</resources>
